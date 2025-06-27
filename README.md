@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## 🧩 Troubleshooting
 
@@ -72,3 +73,6 @@
 **Note**: This application is designed for educational and protective purposes. It helps identify potential social engineering attempts but should not be considered a replacement for professional security advice.
 
 **Version**: 1.0.0 | **Last Updated**: [Insert Date]
+=======
+# social_eng_app
+>>>>>>> e3fdd7247b43cde7eec9ba39ed7c0032598cae34
