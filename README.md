@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## 🧩 Troubleshooting
 
 ### Common Errors and Solutions
